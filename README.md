@@ -1,0 +1,2 @@
+# jpamysql
+SpringData-jpa-demo
